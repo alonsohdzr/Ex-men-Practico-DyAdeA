@@ -1,0 +1,6 @@
+evidencia,contenido,tolerancia,ancho,alto,build_ms,nodos,hojas,prof_max,bytes_original,bytes_quadtree,razon_compresion,mse,psnr_db,error_max
+ev1_blocks_256_tol0,blocks,0,256,256,58.13,4785,3589,8,196608,11092,17.725,0.0,inf,0
+ev2_detail_256_tol100,detail,100,256,256,56.33,4577,3433,8,196608,10634,18.489,53.417,30.85,36
+ev3_detail_256_tol400,detail,400,256,256,48.78,3925,2944,8,196608,9094,21.62,124.798,27.17,195
+ev4_noise_128_tol0,noise,0,128,128,301.04,21845,16384,7,49152,49840,0.986,0.0,inf,0
+ev5_detail_200x150_tol100,detail,100,200,150,34.96,3669,2584,8,90000,8030,11.208,52.606,30.92,38
